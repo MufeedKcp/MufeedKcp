@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning
+From non-tech to data | Learning Analytics Engineering | Future Data Engineer | SQL • Python • dbt • Cloud • ETL
 
 
 ## 🌐 Socials:
