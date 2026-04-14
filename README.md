@@ -1,5 +1,5 @@
 ### 💫 About Me:
-Non-Tech | 20 | Learning Data Engineer | Working towards becoming AE → DE | Future Data Engineer |<br>SQL | Python | dbt | Cloud | ETL
+Non-Tech | 20 | Learning Data Engineer | <br>SQL | Python | dbt | Cloud | ETL
 
 
 #### Socials:
