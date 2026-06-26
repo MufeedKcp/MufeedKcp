@@ -10,8 +10,7 @@ Non-Tech | 20 | Learning Data Engineer  <br>SQL | Python | Data modeling | dbt |
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=plastic&logo=snowflake&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 
 #### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MufeedKcp&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=MufeedKcp&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=MufeedKcp&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true) ![](https://streak-stats.demolab.com/?user=MufeedKcp&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MufeedKcp&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
