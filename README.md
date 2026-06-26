@@ -17,9 +17,6 @@ Non-Tech | 20 | Learning Data Engineer  <br>SQL | Python | Data modeling | dbt |
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MufeedKcp&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=MufeedKcp&icon=10&color=13)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
