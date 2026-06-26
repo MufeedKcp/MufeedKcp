@@ -14,9 +14,6 @@ Non-Tech | 20 | Learning Data Engineer  <br>SQL | Python | Data modeling | dbt |
 ![](https://streak-stats.demolab.com/?user=MufeedKcp&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MufeedKcp&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MufeedKcp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
