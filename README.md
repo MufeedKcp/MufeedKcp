@@ -1,5 +1,5 @@
-### 💫 About Me:
-Non-Tech | 20 | Learning Data Engineer  <br>SQL | Python | Data modeling | dbt | Cloud | Airflow | Pyspark | 
+### About Me:
+Data Engineer  <br>SQL | Python | Data modeling | dbt | AWS | Airflow | Pyspark | 
 
 
 #### Socials:
