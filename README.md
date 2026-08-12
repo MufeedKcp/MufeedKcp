@@ -1,5 +1,5 @@
 ### About Me:
-Data Engineer  <br>SQL | Python | Data modeling | dbt | AWS | Airflow | Pyspark | 
+Data Engineer  <br>SQL | Python | Data modeling | dbt | AWS | Airflow | Pyspark | Docker | Linux
 
 
 #### Socials:
